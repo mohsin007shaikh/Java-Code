@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorld {
+public class MergeSort {
 
 	public static void main(String[] args) {
 		int noOfElements;
